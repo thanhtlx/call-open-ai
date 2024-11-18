@@ -1,0 +1,11 @@
+__pycache__/
+*.csv
+*.zip
+patch_api
+multi_tasK_codellama_dataset_mcmd
+mcdm_c
+human_eval
+data
+cmg-data-v2
+*.jsonl
+*.json
